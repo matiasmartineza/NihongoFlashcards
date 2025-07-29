@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Nihongo Flashcards</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
@@ -20,6 +21,7 @@
         <div class="buttons">
             <button id="start">Iniciar</button>
             <button id="start-smart">Modo inteligente</button>
+            <button id="start-all">Todas las tarjetas</button>
         </div>
     </div>
 
@@ -33,8 +35,8 @@
         <div class="buttons">
             <button id="prev">Anterior</button>
             <button id="flip">Mostrar significado</button>
-            <button id="no">No lo sabía</button>
-            <button id="yes">Lo sabía</button>
+            <button id="no" class="no-button">No lo sabía</button>
+            <button id="yes" class="yes-button">Lo sabía</button>
             <button id="exit">Regresar</button>
         </div>
     </div>

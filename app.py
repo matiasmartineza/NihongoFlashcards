@@ -65,6 +65,9 @@ def api_tarjetas():
             return (acc, -shown)
         ordered = sorted(cards, key=metric)
         selected = ordered[:n]
+    elif modo == "all":
+        selected = cards[:]
+        random.shuffle(selected)
     else:
         if n > len(cards):
             n = len(cards)

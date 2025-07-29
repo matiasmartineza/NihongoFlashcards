@@ -277,10 +277,24 @@ class FlashcardApp:
         self.flip_button = tk.Button(self.button_frame, text="Mostrar significado", command=self.flip_card, width=20)
         self.flip_button.pack(side=tk.LEFT, padx=10)
         
-        self.no_button = tk.Button(self.button_frame, text="No lo sabía", command=lambda: self.answer(False), width=20)
+        self.no_button = tk.Button(
+            self.button_frame,
+            text="No lo sabía",
+            command=lambda: self.answer(False),
+            width=20,
+            bg="red",
+            fg="white",
+        )
         self.no_button.pack(side=tk.LEFT, padx=10)
 
-        self.yes_button = tk.Button(self.button_frame, text="Lo sabía", command=lambda: self.answer(True), width=20)
+        self.yes_button = tk.Button(
+            self.button_frame,
+            text="Lo sabía",
+            command=lambda: self.answer(True),
+            width=20,
+            bg="green",
+            fg="white",
+        )
         self.yes_button.pack(side=tk.LEFT, padx=10)
 
         self.exit_button = tk.Button(self.button_frame, text="Regresar", command=self.back_to_selection, width=20)
