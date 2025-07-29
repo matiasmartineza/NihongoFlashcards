@@ -1,0 +1,450 @@
+[
+    {
+        "tipo": "い",
+        "kanji": "大きい",
+        "hiragana": "おおきい",
+        "romaji": "ōkii",
+        "español": "grande"
+    },
+    {
+        "tipo": "い",
+        "kanji": "小さい",
+        "hiragana": "ちいさい",
+        "romaji": "chiisai",
+        "español": "pequeño"
+    },
+    {
+        "tipo": "い",
+        "kanji": "新しい",
+        "hiragana": "あたらしい",
+        "romaji": "atarashii",
+        "español": "nuevo"
+    },
+    {
+        "tipo": "な",
+        "kanji": "静か",
+        "hiragana": "しずか",
+        "romaji": "shizuka",
+        "español": "silencioso, tranquilo"
+    },
+    {
+        "tipo": "な",
+        "kanji": "便利",
+        "hiragana": "べんり",
+        "romaji": "benri",
+        "español": "práctico, conveniente"
+    },
+    {
+        "tipo": "い",
+        "kanji": "古い",
+        "hiragana": "ふるい",
+        "romaji": "furui",
+        "español": "viejo (objeto)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "優しい",
+        "hiragana": "やさしい",
+        "romaji": "yasashii",
+        "español": "amable, gentil"
+    },
+    {
+        "tipo": "い",
+        "kanji": "美味しい",
+        "hiragana": "おいしい",
+        "romaji": "oishii",
+        "español": "delicioso"
+    },
+    {
+        "tipo": "い",
+        "kanji": "可愛い",
+        "hiragana": "かわいい",
+        "romaji": "kawaii",
+        "español": "lindo, adorable"
+    },
+    {
+        "tipo": "い",
+        "kanji": "怖い",
+        "hiragana": "こわい",
+        "romaji": "kowai",
+        "español": "aterrador, temible"
+    },
+    {
+        "tipo": "い",
+        "kanji": "格好いい",
+        "hiragana": "かっこいい",
+        "romaji": "kakkoii",
+        "español": "genial, atractivo"
+    },
+    {
+        "tipo": "い",
+        "kanji": "青い",
+        "hiragana": "あおい",
+        "romaji": "aoi",
+        "español": "azul"
+    },
+    {
+        "tipo": "い",
+        "kanji": "赤い",
+        "hiragana": "あかい",
+        "romaji": "akai",
+        "español": "rojo"
+    },
+    {
+        "tipo": "い",
+        "kanji": "頭がいい",
+        "hiragana": "あたまがいい",
+        "romaji": "atamagaii",
+        "español": "inteligente"
+    },
+    {
+        "tipo": "い",
+        "kanji": "良い",
+        "hiragana": "いい",
+        "romaji": "ii",
+        "español": "bueno"
+    },
+    {
+        "tipo": "い",
+        "kanji": "忙しい",
+        "hiragana": "いそがしい",
+        "romaji": "isogashii",
+        "español": "ocupado"
+    },
+    {
+        "tipo": "い",
+        "kanji": "うるさい",
+        "hiragana": "うるさい",
+        "romaji": "urusai",
+        "español": "ruidoso, molesto"
+    },
+    {
+        "tipo": "な",
+        "kanji": "綺麗",
+        "hiragana": "きれい",
+        "romaji": "kirei",
+        "español": "hermoso, limpio"
+    },
+    {
+        "tipo": "い",
+        "kanji": "黒い",
+        "hiragana": "くろい",
+        "romaji": "kuroi",
+        "español": "negro"
+    },
+    {
+        "tipo": "い",
+        "kanji": "白い",
+        "hiragana": "しろい",
+        "romaji": "shiroi",
+        "español": "blanco"
+    },
+    {
+        "tipo": "い",
+        "kanji": "高い",
+        "hiragana": "たかい",
+        "romaji": "takai",
+        "español": "alto, caro"
+    },
+    {
+        "tipo": "い",
+        "kanji": "苦い",
+        "hiragana": "にがい",
+        "romaji": "nigai",
+        "español": "amargo"
+    },
+    {
+        "tipo": "な",
+        "kanji": "有名",
+        "hiragana": "ゆうめい",
+        "romaji": "yuumei",
+        "español": "famoso"
+    },
+    {
+        "tipo": "い",
+        "kanji": "安い",
+        "hiragana": "やすい",
+        "romaji": "yasui",
+        "español": "barato"
+    },
+    {
+        "tipo": "い",
+        "kanji": "ダサい",
+        "hiragana": "ださい",
+        "romaji": "dasai",
+        "español": "anticuado, poco estiloso"
+    },
+    {
+        "tipo": "な",
+        "kanji": "上手",
+        "hiragana": "じょうず",
+        "romaji": "jouzu",
+        "español": "hábil, bueno en algo"
+    },
+    {
+        "tipo": "い",
+        "kanji": "少ない",
+        "hiragana": "すくない",
+        "romaji": "sukunai",
+        "español": "pocos"
+    },
+    {
+        "tipo": "い",
+        "kanji": "多い",
+        "hiragana": "おおい",
+        "romaji": "ooi",
+        "español": "muchos"
+    },
+    {
+        "tipo": "い",
+        "kanji": "低い",
+        "hiragana": "ひくい",
+        "romaji": "hikui",
+        "español": "bajo"
+    },
+    {
+        "tipo": "な",
+        "kanji": "好き",
+        "hiragana": "すき",
+        "romaji": "suki",
+        "español": "gustar"
+    },
+    {
+        "tipo": "な",
+        "kanji": "大好き",
+        "hiragana": "だいすき",
+        "romaji": "daisuki",
+        "español": "encantar"
+    },
+    {
+        "tipo": "な",
+        "kanji": "元気",
+        "hiragana": "げんき",
+        "romaji": "genki",
+        "español": "saludable, energético"
+    },
+    {
+        "tipo": "い",
+        "kanji": "近い",
+        "hiragana": "ちかい",
+        "romaji": "chikai",
+        "español": "cercano"
+    },
+    {
+        "tipo": "い",
+        "kanji": "遠い",
+        "hiragana": "とおい",
+        "romaji": "tooi",
+        "español": "lejano"
+    },
+    {
+        "tipo": "い",
+        "kanji": "長い",
+        "hiragana": "ながい",
+        "romaji": "nagai",
+        "español": "largo"
+    },
+    {
+        "tipo": "い",
+        "kanji": "短い",
+        "hiragana": "みじかい",
+        "romaji": "mijikai",
+        "español": "corto"
+    },
+    {
+        "tipo": "い",
+        "kanji": "広い",
+        "hiragana": "ひろい",
+        "romaji": "hiroi",
+        "español": "amplio"
+    },
+    {
+        "tipo": "い",
+        "kanji": "暑い",
+        "hiragana": "あつい",
+        "romaji": "atsui",
+        "español": "caluroso (clima)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "熱い",
+        "hiragana": "あつい",
+        "romaji": "atsui",
+        "español": "caliente (al tacto)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "寒い",
+        "hiragana": "さむい",
+        "romaji": "samui",
+        "español": "frío (clima)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "暖かい",
+        "hiragana": "あたたかい",
+        "romaji": "atatakai",
+        "español": "cálido, templado"
+    },
+    {
+        "tipo": "い",
+        "kanji": "悪い",
+        "hiragana": "わるい",
+        "romaji": "warui",
+        "español": "malo"
+    },
+    {
+        "tipo": "い",
+        "kanji": "重い",
+        "hiragana": "おもい",
+        "romaji": "omoi",
+        "español": "pesado"
+    },
+    {
+        "tipo": "い",
+        "kanji": "軽い",
+        "hiragana": "かるい",
+        "romaji": "karui",
+        "español": "ligero"
+    },
+    {
+        "tipo": "い",
+        "kanji": "強い",
+        "hiragana": "つよい",
+        "romaji": "tsuyoi",
+        "español": "fuerte"
+    },
+    {
+        "tipo": "い",
+        "kanji": "弱い",
+        "hiragana": "よわい",
+        "romaji": "yowai",
+        "español": "débil"
+    },
+    {
+        "tipo": "い",
+        "kanji": "難しい",
+        "hiragana": "むずかしい",
+        "romaji": "muzukashii",
+        "español": "difícil"
+    },
+    {
+        "tipo": "い",
+        "kanji": "若い",
+        "hiragana": "わかい",
+        "romaji": "wakai",
+        "español": "joven"
+    },
+    {
+        "tipo": "い",
+        "kanji": "痛い",
+        "hiragana": "いたい",
+        "romaji": "itai",
+        "español": "doloroso, que duele"
+    },
+    {
+        "tipo": "い",
+        "kanji": "酸っぱい",
+        "hiragana": "すっぱい",
+        "romaji": "suppai",
+        "español": "ácido"
+    },
+    {
+        "tipo": "い",
+        "kanji": "辛い",
+        "hiragana": "からい",
+        "romaji": "karai",
+        "español": "picante"
+    },
+    {
+        "tipo": "い",
+        "kanji": "甘い",
+        "hiragana": "あまい",
+        "romaji": "amai",
+        "español": "dulce"
+    },
+    {
+        "tipo": "い",
+        "kanji": "細い",
+        "hiragana": "ほそい",
+        "romaji": "hosoi",
+        "español": "delgado (objetos)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "太い",
+        "hiragana": "ふとい",
+        "romaji": "futoi",
+        "español": "grueso"
+    },
+    {
+        "tipo": "い",
+        "kanji": "冷たい",
+        "hiragana": "つめたい",
+        "romaji": "tsumetai",
+        "español": "frío (al tacto)"
+    },
+    {
+        "tipo": "い",
+        "kanji": "汚い",
+        "hiragana": "きたない",
+        "romaji": "kitanai",
+        "español": "sucio"
+    },
+    {
+        "tipo": "い",
+        "kanji": "明るい",
+        "hiragana": "あかるい",
+        "romaji": "akarui",
+        "español": "luminoso, alegre"
+    },
+    {
+        "tipo": "な",
+        "kanji": "明らか",
+        "hiragana": "あきらか",
+        "romaji": "akiraka",
+        "español": "evidente, claro"
+    },
+    {
+        "tipo": "な",
+        "kanji": "下手",
+        "hiragana": "へた",
+        "romaji": "heta",
+        "español": "torpe, malo en"
+    },
+    {
+        "tipo": "い",
+        "kanji": "嬉しい",
+        "hiragana": "うれしい",
+        "romaji": "ureshii",
+        "español": "contento, feliz"
+    },
+    {
+        "tipo": "な",
+        "kanji": "嫌い",
+        "hiragana": "きらい",
+        "romaji": "kirai",
+        "español": "desagradable, odiado"
+    },
+    {
+        "tipo": "い",
+        "kanji": "狭い",
+        "hiragana": "せまい",
+        "romaji": "semai",
+        "español": "estrecho, angosto"
+    },
+    {
+        "tipo": "い",
+        "kanji": "悲しい",
+        "hiragana": "かなしい",
+        "romaji": "kanashii",
+        "español": "triste"
+    },
+    {
+        "tipo": "い",
+        "kanji": "美しい",
+        "hiragana": "うつくしい",
+        "romaji": "utsukushii",
+        "español": "hermoso, bello"
+    }
+]

@@ -1,0 +1,1100 @@
+[
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "español": "escribir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "español": "comer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "español": "ver",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "する",
+    "hiragana": "する",
+    "romaji": "suru",
+    "español": "hacer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "español": "venir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "español": "beber",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "romaji": "yasumu",
+    "español": "descansar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "泳ぐ",
+    "hiragana": "およぐ",
+    "romaji": "oyogu",
+    "español": "nadar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "遊ぶ",
+    "hiragana": "あそぶ",
+    "romaji": "asobu",
+    "español": "jugar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "español": "hablar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "romaji": "hataraku",
+    "español": "trabajar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "行く",
+    "hiragana": "いく",
+    "romaji": "iku",
+    "español": "ir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "言う",
+    "hiragana": "いう",
+    "romaji": "iu",
+    "español": "decir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "español": "volver",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "買う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "español": "comprar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "español": "escuchar, preguntar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "切る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "español": "cortar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "着る",
+    "hiragana": "きる",
+    "romaji": "kiru",
+    "español": "vestir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "勉強する",
+    "hiragana": "べんきょうする",
+    "romaji": "benkyou suru",
+    "español": "estudiar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "料理する",
+    "hiragana": "りょうりする",
+    "romaji": "ryori suru",
+    "español": "cocinar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "死ぬ",
+    "hiragana": "しぬ",
+    "romaji": "shinu",
+    "español": "morir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "sumu",
+    "español": "vivir (en algún lugar)",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "español": "cantar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "romaji": "yomu",
+    "español": "leer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "romaji": "neru",
+    "español": "dormir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "romaji": "oshieru",
+    "español": "enseñar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "旅行する",
+    "hiragana": "りょこうする",
+    "romaji": "ryoko suru",
+    "español": "viajar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "ireru",
+    "español": "poner",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "español": "entrar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "español": "salir",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "出かける",
+    "hiragana": "でかける",
+    "romaji": "dekakeru",
+    "español": "salir (con propósito)",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "dasu",
+    "español": "sacar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "やる",
+    "hiragana": "やる",
+    "romaji": "yaru",
+    "español": "hacer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "なる",
+    "hiragana": "なる",
+    "romaji": "naru",
+    "español": "convertirse, volverse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "出来る",
+    "hiragana": "できる",
+    "romaji": "dekiru",
+    "español": "poder hacer, ser capaz",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "español": "abrir (algo físico)",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "開く",
+    "hiragana": "ひらく",
+    "romaji": "hiraku",
+    "español": "abrir (expandir, desplegar)",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "開く",
+    "hiragana": "あく",
+    "romaji": "aku",
+    "español": "abrirse (por sí solo)",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "閉める",
+    "hiragana": "しめる",
+    "romaji": "shimeru",
+    "español": "cerrar (algo físico)",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "閉じる",
+    "hiragana": "とじる",
+    "romaji": "tojiru",
+    "español": "cerrar (plegar, completar)",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "分かる",
+    "hiragana": "わかる",
+    "romaji": "wakaru",
+    "español": "entender",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "上げる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "español": "levantar, elevar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "上る",
+    "hiragana": "のぼる",
+    "romaji": "noboru",
+    "español": "subir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "晴れる",
+    "hiragana": "はれる",
+    "romaji": "hareru",
+    "español": "despejarse, estar soleado",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "閉まる",
+    "hiragana": "しまる",
+    "romaji": "shimaru",
+    "español": "cerrarse",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "くれる",
+    "hiragana": "くれる",
+    "romaji": "くれる",
+    "español": "dar (a mí)",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "見せる",
+    "hiragana": "みせる",
+    "romaji": "miseru",
+    "español": "mostrar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "見える",
+    "hiragana": "みえる",
+    "romaji": "mieru",
+    "español": "ser visible, poder verse",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "見つける",
+    "hiragana": "みつける",
+    "romaji": "mitsukeru",
+    "español": "encontrar, descubrir",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "見つかる",
+    "hiragana": "みつかる",
+    "romaji": "mitsukaru",
+    "español": "ser encontrado, aparecer",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "止める",
+    "hiragana": "やめる",
+    "romaji": "yameru",
+    "español": "dejar de hacer algo, renunciar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "español": "caminar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "español": "correr",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "会う",
+    "hiragana": "あう",
+    "romaji": "au",
+    "español": "encontrarse con alguien",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "romaji": "oboeru",
+    "español": "memorizar, recordar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "ある",
+    "hiragana": "ある",
+    "romaji": "aru",
+    "español": "existir, haber (inanimado)",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "ない",
+    "hiragana": "ない",
+    "romaji": "nai",
+    "español": "no existir, no haber",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "あげる",
+    "hiragana": "あげる",
+    "romaji": "ageru",
+    "español": "dar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "もらう",
+    "hiragana": "もらう",
+    "romaji": "morau",
+    "español": "recibir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "泊まる",
+    "hiragana": "とまる",
+    "romaji": "tomaru",
+    "español": "pernoctar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "romaji": "tsukuru",
+    "español": "hacer, fabricar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "español": "usar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "消す",
+    "hiragana": "けす",
+    "romaji": "kesu",
+    "español": "borrar, apagar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "売る",
+    "hiragana": "うる",
+    "romaji": "uru",
+    "español": "vender",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "空く",
+    "hiragana": "すく",
+    "romaji": "suku",
+    "español": "vaciarse, estar vacío",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "思う",
+    "hiragana": "おもう",
+    "romaji": "omou",
+    "español": "pensar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "wasureru",
+    "español": "olvidar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "考える",
+    "hiragana": "かんがえる",
+    "romaji": "kangaeru",
+    "español": "considerar, reflexionar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "決める",
+    "hiragana": "きめる",
+    "romaji": "kimeru",
+    "español": "decidir (algo)",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "決まる",
+    "hiragana": "きまる",
+    "romaji": "kimaru",
+    "español": "decidirse",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "知る",
+    "hiragana": "しる",
+    "romaji": "shiru",
+    "español": "saber, conocer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "送る",
+    "hiragana": "おくる",
+    "romaji": "okuru",
+    "español": "enviar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "toru",
+    "español": "tomar, coger",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "待つ",
+    "hiragana": "まつ",
+    "romaji": "matsu",
+    "español": "esperar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "motsu",
+    "español": "tener, sujetar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "生きる",
+    "hiragana": "いきる",
+    "romaji": "ikiru",
+    "español": "vivir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "引く",
+    "hiragana": "ひく",
+    "romaji": "hiku",
+    "español": "tirar, halar, tocar (instrumento de cuerda), atraer",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "負ける",
+    "hiragana": "まける",
+    "romaji": "makeru",
+    "español": "perder",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "romaji": "katsu",
+    "español": "ganar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "romaji": "tatsu",
+    "español": "pararse, levantarse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "乗る",
+    "hiragana": "のる",
+    "romaji": "noru",
+    "español": "subir a, montar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "変える",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "español": "cambiar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "座る",
+    "hiragana": "すわる",
+    "romaji": "suwaru",
+    "español": "sentarse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "動く",
+    "hiragana": "うごく",
+    "romaji": "ugoku",
+    "español": "moverse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "書き直す",
+    "hiragana": "かきなおす",
+    "romaji": "kakinaosu",
+    "español": "reescribir",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "違う",
+    "hiragana": "ちがう",
+    "romaji": "chigau",
+    "español": "ser diferente, equivocarse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "曲がる",
+    "hiragana": "まがる",
+    "romaji": "magaru",
+    "español": "girar, doblar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "結婚する",
+    "hiragana": "けっこんする",
+    "romaji": "kekkonsuru",
+    "español": "casarse",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "答える",
+    "hiragana": "こたえる",
+    "romaji": "kotaeru",
+    "español": "responder",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "飛ぶ",
+    "hiragana": "とぶ",
+    "romaji": "tobu",
+    "español": "volar, saltar",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "N/A"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "つける",
+    "hiragana": "つける",
+    "romaji": "tsukeru",
+    "español": "encender, prender",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Irregulares",
+    "kanji": "愛する",
+    "hiragana": "あいする",
+    "romaji": "aisuru",
+    "español": "amar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "笑う",
+    "hiragana": "わらう",
+    "romaji": "warau",
+    "español": "reír",
+    "par_transitivo_intransitivo": "No",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "載せる",
+    "hiragana": "のせる",
+    "romaji": "noseru",
+    "español": "colocar encima, montar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "起こる",
+    "hiragana": "おこる",
+    "romaji": "okoru",
+    "español": "ocurrir",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "romaji": "okosu",
+    "español": "despertar, causar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "romaji": "okiru",
+    "español": "levantarse, ocurrir",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "戻る",
+    "hiragana": "もどる",
+    "romaji": "modoru",
+    "español": "regresar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "建てる",
+    "hiragana": "たてる",
+    "romaji": "tateru",
+    "español": "construir",
+    "par_transitivo_intransitive": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "置く",
+    "hiragana": "おく",
+    "romaji": "oku",
+    "español": "colocar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "落ちる",
+    "hiragana": "おちる",
+    "romaji": "ochiru",
+    "español": "caer",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "intransitive"
+  },
+  {
+    "grupo": "Grupo 1 (う)",
+    "kanji": "探す",
+    "hiragana": "さがす",
+    "romaji": "sagasu",
+    "español": "buscar",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "grupo": "Grupo 2 (る)",
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "romaji": "kanjiru",
+    "español": "sentir",
+    "par_transitivo_intransitivo": "Sí",
+    "tipo": "transitivo"
+  },
+  {
+    "romaji": "kiniiru",
+    "kanji": "気に入る",
+    "hiragana": "きにいる",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "gustar; quedar satisfecho con"
+  },
+  {
+    "romaji": "tassuru",
+    "kanji": "達する",
+    "hiragana": "たっする",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "llegar a; alcanzar"
+  },
+  {
+    "romaji": "tasu",
+    "kanji": "足す",
+    "hiragana": "たす",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "añadir; sumar"
+  },
+  {
+    "romaji": "tariru",
+    "kanji": "足りる",
+    "hiragana": "たりる",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "ser suficiente; bastar"
+  },
+  {
+    "romaji": "oriru",
+    "kanji": "降りる",
+    "hiragana": "おりる",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "bajarse (de un vehículo)"
+  },
+  {
+    "romaji": "orosu",
+    "kanji": "降ろす",
+    "hiragana": "おろす",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "bajar; descargar"
+  },
+  {
+    "romaji": "kudaru",
+    "kanji": "下る",
+    "hiragana": "くだる",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "descender; ir hacia abajo"
+  },
+  {
+    "romaji": "sagaru",
+    "kanji": "下がる",
+    "hiragana": "さがる",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "bajar; alejarse"
+  },
+  {
+    "romaji": "sageru",
+    "kanji": "下げる",
+    "hiragana": "さげる",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "bajar; reducir"
+  },
+  {
+    "romaji": "agaru",
+    "kanji": "上がる",
+    "hiragana": "あがる",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "subir; elevarse"
+  },
+  {
+    "romaji": "okonau",
+    "kanji": "行う",
+    "hiragana": "おこなう",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "realizar; llevar a cabo"
+  },
+  {
+    "romaji": "wakeru",
+    "kanji": "分ける",
+    "hiragana": "わける",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "dividir; repartir"
+  },
+  {
+    "romaji": "wakareru",
+    "kanji": "分かれる",
+    "hiragana": "わかれる",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "separarse; desprenderse"
+  },
+  {
+    "romaji": "kakeru",
+    "kanji": "掛ける",
+    "hiragana": "かける",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "colgar; apostar; colocar sobre"
+  },
+  {
+    "romaji": "kawaku",
+    "kanji": "渇く",
+    "hiragana": "かわく",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "tener sed; secarse"
+  },
+  {
+    "romaji": "tetsudau",
+    "kanji": "手伝う",
+    "hiragana": "てつだう",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "ayudar; asistir"
+  },
+  {
+    "romaji": "sawaru",
+    "kanji": "触る",
+    "hiragana": "さわる",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "intransitivo",
+    "tipo": "verbo",
+    "español": "tocar; palpar"
+  },
+  {
+    "romaji": "abiru",
+    "kanji": "浴びる",
+    "hiragana": "あびる",
+    "grupo": "ichidan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "bañarse; recibir (ducha, radiación, crítica)"
+  },
+  {
+    "romaji": "yobu",
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "grupo": "godan",
+    "par_transitivo_intransitivo": "transitivo",
+    "tipo": "verbo",
+    "español": "llamar; convocar"
+  }
+]

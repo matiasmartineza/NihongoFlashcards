@@ -1,0 +1,198 @@
+[
+  {
+    "adverbio": "そう",
+    "categoria": "指示／Demostrativos"
+  },
+  {
+    "adverbio": "こう",
+    "categoria": "指示／Demostrativos"
+  },
+  {
+    "adverbio": "よう",
+    "categoria": "指示／Demostrativos"
+  },
+  {
+    "adverbio": "どう",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "どうして",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "誰",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "どれ",
+    "categoria": "疑問／Interrogativos"
+  },
+  {
+    "adverbio": "時々",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "たまに",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "しばしば",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "よく",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "いつも",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "たいてい",
+    "categoria": "頻度／Frecuencia"
+  },
+  {
+    "adverbio": "少しも",
+    "categoria": "頻度／Frecuencia (negativa)"
+  },
+  {
+    "adverbio": "あまり",
+    "categoria": "頻度／Frecuencia (negativa)"
+  },
+  {
+    "adverbio": "少し",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "ちょっと",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "だいぶ",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "かなり",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "もっと",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "たくさん",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "十分",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "多分",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "本当に",
+    "categoria": "程度／Grado y Cantidad"
+  },
+  {
+    "adverbio": "全部",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "一番",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "一杯",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "ほぼ",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "ほとんど",
+    "categoria": "限定・数量／Totalidad y Extensión"
+  },
+  {
+    "adverbio": "すぐ",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "もうすぐ",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "まだ",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "もう",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "今まで",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "いずれ",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "まず",
+    "categoria": "時相・時間／Tiempo y Secuencia"
+  },
+  {
+    "adverbio": "一緒に",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "真っ直ぐに",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "同じ",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "はっきり",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "明らかに",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "ゆっくり",
+    "categoria": "方法・様態／Modo y Manera"
+  },
+  {
+    "adverbio": "つまり",
+    "categoria": "接続・要約／Conexión y Resumen"
+  },
+  {
+    "adverbio": "なお",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "やはり",
+    "categoria": "様態・予想／Modalidad y Expectación"
+  },
+  {
+    "adverbio": "も",
+    "categoria": "副助詞／Partícula Adverbial"
+  },
+  {
+    "adverbio": "ここ",
+    "categoria": "指示／Ubicación"
+  },
+  {
+    "adverbio": "そこ",
+    "categoria": "指示／Ubicación"
+  },
+  {
+    "adverbio": "どこ",
+    "categoria": "疑問／Interrogativos"
+  }
+]
