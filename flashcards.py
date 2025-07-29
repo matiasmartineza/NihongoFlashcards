@@ -15,14 +15,14 @@ class FlashcardApp:
         self.session_total = 0
         self.index = 0
         self.flipped = False
-        # Las categorías posibles son: "verbo", "adjetivo", "jlpt"
+        # Las categorías posibles son: "verbo", "adjetivo", "adverbio", "jlpt"
         self.card_category = None  
         
         # Pantalla de selección inicial
         self.create_initial_selection_frame()
         
     def create_initial_selection_frame(self):
-        """Pantalla inicial para seleccionar entre Verbos, Adjetivos o JLPT N5."""
+        """Pantalla inicial para seleccionar entre Verbos, Adjetivos, Adverbios o JLPT N5."""
         self.selection_frame = tk.Frame(self.master, padx=20, pady=20)
         self.selection_frame.pack(expand=True)
         
@@ -34,10 +34,13 @@ class FlashcardApp:
         
         verbos_button = tk.Button(button_frame, text="Verbos", command=lambda: self.load_cards("verbo"), width=20)
         verbos_button.pack(side=tk.LEFT, padx=10)
-        
+
         adjetivos_button = tk.Button(button_frame, text="Adjetivos", command=lambda: self.load_cards("adjetivo"), width=20)
         adjetivos_button.pack(side=tk.LEFT, padx=10)
-        
+
+        adverbios_button = tk.Button(button_frame, text="Adverbios", command=lambda: self.load_cards("adverbio"), width=20)
+        adverbios_button.pack(side=tk.LEFT, padx=10)
+
         jlpt_button = tk.Button(button_frame, text="JLPT N5", command=lambda: self.load_cards("jlpt"), width=20)
         jlpt_button.pack(side=tk.LEFT, padx=10)
     
@@ -48,6 +51,8 @@ class FlashcardApp:
             filename = "verbos.json"
         elif category == "adjetivo":
             filename = "adjetivos.json"
+        elif category == "adverbio":
+            filename = "adverbios.json"
         elif category == "jlpt":
             filename = "verbosN5.json"
         else:
@@ -139,12 +144,19 @@ class FlashcardApp:
         self.card_frame.pack(expand=True, fill=tk.BOTH)
         
         self.current_card = self.session_cards[self.index]
-        
-        self.kanji_label = tk.Label(self.card_frame, text=self.current_card["kanji"], font=("Helvetica", 48))
-        self.kanji_label.pack(pady=(0,10))
-        
-        self.hiragana_label = tk.Label(self.card_frame, text=self.current_card["hiragana"], font=("Helvetica", 24))
-        self.hiragana_label.pack(pady=(0,20))
+
+        if self.card_category == "adverbio":
+            # Los adverbios solo contienen el texto del adverbio en japonés
+            self.kanji_label = tk.Label(self.card_frame, text=self.current_card["adverbio"], font=("Helvetica", 48))
+            self.kanji_label.pack(pady=(20,20))
+            self.hiragana_label = tk.Label(self.card_frame, text="", font=("Helvetica", 24))
+            self.hiragana_label.pack_forget()
+        else:
+            self.kanji_label = tk.Label(self.card_frame, text=self.current_card["kanji"], font=("Helvetica", 48))
+            self.kanji_label.pack(pady=(0,10))
+
+            self.hiragana_label = tk.Label(self.card_frame, text=self.current_card["hiragana"], font=("Helvetica", 24))
+            self.hiragana_label.pack(pady=(0,20))
         
         # Inicialmente sin mostrar la traducción ni la info extra
         self.translation_label = tk.Label(self.card_frame, text="", font=("Helvetica", 24), fg="blue")
@@ -171,10 +183,12 @@ class FlashcardApp:
         if not self.flipped:
             if self.card_category in ["verbo", "jlpt"]:
                 info = f"{self.current_card['español']}\nGrupo: {self.current_card['grupo']}"
-                if self.current_card.get("par_transitivo_intransitivo", "No") == "Sí":
+                if self.current_card.get('par_transitivo_intransitivo', 'No') == "Sí":
                     info += f"\nVersión: {self.current_card['tipo']}"
-            else:  # Adjetivos
+            elif self.card_category == "adjetivo":
                 info = f"{self.current_card['español']}\nTipo: {self.current_card['tipo']}"
+            else:  # adverbio
+                info = f"Categoría: {self.current_card['categoria']}"
             self.translation_label.config(text=info)
             self.flip_button.config(text="Ocultar significado")
             self.flipped = True
@@ -194,8 +208,13 @@ class FlashcardApp:
             return
         
         self.current_card = self.session_cards[self.index]
-        self.kanji_label.config(text=self.current_card["kanji"])
-        self.hiragana_label.config(text=self.current_card["hiragana"])
+        if self.card_category == "adverbio":
+            self.kanji_label.config(text=self.current_card["adverbio"])
+            self.hiragana_label.config(text="")
+            self.hiragana_label.pack_forget()
+        else:
+            self.kanji_label.config(text=self.current_card["kanji"])
+            self.hiragana_label.config(text=self.current_card["hiragana"])
         self.translation_label.config(text="")
         self.flip_button.config(text="Mostrar significado")
         self.flipped = False
@@ -208,8 +227,13 @@ class FlashcardApp:
             return
         self.index -= 1
         self.current_card = self.session_cards[self.index]
-        self.kanji_label.config(text=self.current_card["kanji"])
-        self.hiragana_label.config(text=self.current_card["hiragana"])
+        if self.card_category == "adverbio":
+            self.kanji_label.config(text=self.current_card["adverbio"])
+            self.hiragana_label.config(text="")
+            self.hiragana_label.pack_forget()
+        else:
+            self.kanji_label.config(text=self.current_card["kanji"])
+            self.hiragana_label.config(text=self.current_card["hiragana"])
         self.translation_label.config(text="")
         self.flip_button.config(text="Mostrar significado")
         self.flipped = False
