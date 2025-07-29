@@ -2,246 +2,295 @@
   {
     "adverbio": "そう",
     "categoria": "指示／Demostrativos",
-    "español": "así"
+    "español": "así",
+    "id": "adverbios_0001"
   },
   {
     "adverbio": "こう",
     "categoria": "指示／Demostrativos",
-    "español": "así"
+    "español": "así",
+    "id": "adverbios_0002"
   },
   {
     "adverbio": "よう",
     "categoria": "指示／Demostrativos",
-    "español": "así"
+    "español": "así",
+    "id": "adverbios_0003"
   },
   {
     "adverbio": "どう",
     "categoria": "疑問／Interrogativos",
-    "español": "cómo"
+    "español": "cómo",
+    "id": "adverbios_0004"
   },
   {
     "adverbio": "どうして",
     "categoria": "疑問／Interrogativos",
-    "español": "por qué"
+    "español": "por qué",
+    "id": "adverbios_0005"
   },
   {
     "adverbio": "誰",
     "categoria": "疑問／Interrogativos",
-    "español": "quién"
+    "español": "quién",
+    "id": "adverbios_0006"
   },
   {
     "adverbio": "どれ",
     "categoria": "疑問／Interrogativos",
-    "español": "cuál"
+    "español": "cuál",
+    "id": "adverbios_0007"
   },
   {
     "adverbio": "時々",
     "categoria": "頻度／Frecuencia",
-    "español": "a veces"
+    "español": "a veces",
+    "id": "adverbios_0008"
   },
   {
     "adverbio": "たまに",
     "categoria": "頻度／Frecuencia",
-    "español": "de vez en cuando"
+    "español": "de vez en cuando",
+    "id": "adverbios_0009"
   },
   {
     "adverbio": "しばしば",
     "categoria": "頻度／Frecuencia",
-    "español": "frecuentemente"
+    "español": "frecuentemente",
+    "id": "adverbios_0010"
   },
   {
     "adverbio": "よく",
     "categoria": "頻度／Frecuencia",
-    "español": "a menudo"
+    "español": "a menudo",
+    "id": "adverbios_0011"
   },
   {
     "adverbio": "いつも",
     "categoria": "頻度／Frecuencia",
-    "español": "siempre"
+    "español": "siempre",
+    "id": "adverbios_0012"
   },
   {
     "adverbio": "たいてい",
     "categoria": "頻度／Frecuencia",
-    "español": "usualmente"
+    "español": "usualmente",
+    "id": "adverbios_0013"
   },
   {
     "adverbio": "少しも",
     "categoria": "頻度／Frecuencia (negativa)",
-    "español": "ni un poco"
+    "español": "ni un poco",
+    "id": "adverbios_0014"
   },
   {
     "adverbio": "あまり",
     "categoria": "頻度／Frecuencia (negativa)",
-    "español": "no mucho"
+    "español": "no mucho",
+    "id": "adverbios_0015"
   },
   {
     "adverbio": "少し",
     "categoria": "程度／Grado y Cantidad",
-    "español": "un poco"
+    "español": "un poco",
+    "id": "adverbios_0016"
   },
   {
     "adverbio": "ちょっと",
     "categoria": "程度／Grado y Cantidad",
-    "español": "un poco"
+    "español": "un poco",
+    "id": "adverbios_0017"
   },
   {
     "adverbio": "だいぶ",
     "categoria": "程度／Grado y Cantidad",
-    "español": "bastante"
+    "español": "bastante",
+    "id": "adverbios_0018"
   },
   {
     "adverbio": "かなり",
     "categoria": "程度／Grado y Cantidad",
-    "español": "considerablemente"
+    "español": "considerablemente",
+    "id": "adverbios_0019"
   },
   {
     "adverbio": "もっと",
     "categoria": "程度／Grado y Cantidad",
-    "español": "más"
+    "español": "más",
+    "id": "adverbios_0020"
   },
   {
     "adverbio": "たくさん",
     "categoria": "程度／Grado y Cantidad",
-    "español": "mucho"
+    "español": "mucho",
+    "id": "adverbios_0021"
   },
   {
     "adverbio": "十分",
     "categoria": "程度／Grado y Cantidad",
-    "español": "suficientemente"
+    "español": "suficientemente",
+    "id": "adverbios_0022"
   },
   {
     "adverbio": "多分",
     "categoria": "程度／Grado y Cantidad",
-    "español": "probablemente"
+    "español": "probablemente",
+    "id": "adverbios_0023"
   },
   {
     "adverbio": "本当に",
     "categoria": "程度／Grado y Cantidad",
-    "español": "realmente"
+    "español": "realmente",
+    "id": "adverbios_0024"
   },
   {
     "adverbio": "全部",
     "categoria": "限定・数量／Totalidad y Extensión",
-    "español": "todo"
+    "español": "todo",
+    "id": "adverbios_0025"
   },
   {
     "adverbio": "一番",
     "categoria": "限定・数量／Totalidad y Extensión",
-    "español": "el más"
+    "español": "el más",
+    "id": "adverbios_0026"
   },
   {
     "adverbio": "一杯",
     "categoria": "限定・数量／Totalidad y Extensión",
-    "español": "una copa/lleno"
+    "español": "una copa/lleno",
+    "id": "adverbios_0027"
   },
   {
     "adverbio": "ほぼ",
     "categoria": "限定・数量／Totalidad y Extensión",
-    "español": "casi"
+    "español": "casi",
+    "id": "adverbios_0028"
   },
   {
     "adverbio": "ほとんど",
     "categoria": "限定・数量／Totalidad y Extensión",
-    "español": "casi"
+    "español": "casi",
+    "id": "adverbios_0029"
   },
   {
     "adverbio": "すぐ",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "inmediatamente"
+    "español": "inmediatamente",
+    "id": "adverbios_0030"
   },
   {
     "adverbio": "もうすぐ",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "pronto"
+    "español": "pronto",
+    "id": "adverbios_0031"
   },
   {
     "adverbio": "まだ",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "todavía"
+    "español": "todavía",
+    "id": "adverbios_0032"
   },
   {
     "adverbio": "もう",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "ya"
+    "español": "ya",
+    "id": "adverbios_0033"
   },
   {
     "adverbio": "今まで",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "hasta ahora"
+    "español": "hasta ahora",
+    "id": "adverbios_0034"
   },
   {
     "adverbio": "いずれ",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "algún día"
+    "español": "algún día",
+    "id": "adverbios_0035"
   },
   {
     "adverbio": "まず",
     "categoria": "時相・時間／Tiempo y Secuencia",
-    "español": "primero"
+    "español": "primero",
+    "id": "adverbios_0036"
   },
   {
     "adverbio": "一緒に",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "juntos"
+    "español": "juntos",
+    "id": "adverbios_0037"
   },
   {
     "adverbio": "真っ直ぐに",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "recto"
+    "español": "recto",
+    "id": "adverbios_0038"
   },
   {
     "adverbio": "同じ",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "igual"
+    "español": "igual",
+    "id": "adverbios_0039"
   },
   {
     "adverbio": "はっきり",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "claramente"
+    "español": "claramente",
+    "id": "adverbios_0040"
   },
   {
     "adverbio": "明らかに",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "claramente"
+    "español": "claramente",
+    "id": "adverbios_0041"
   },
   {
     "adverbio": "ゆっくり",
     "categoria": "方法・様態／Modo y Manera",
-    "español": "despacio"
+    "español": "despacio",
+    "id": "adverbios_0042"
   },
   {
     "adverbio": "つまり",
     "categoria": "接続・要約／Conexión y Resumen",
-    "español": "en resumen"
+    "español": "en resumen",
+    "id": "adverbios_0043"
   },
   {
     "adverbio": "なお",
     "categoria": "様態・予想／Modalidad y Expectación",
-    "español": "además"
+    "español": "además",
+    "id": "adverbios_0044"
   },
   {
     "adverbio": "やはり",
     "categoria": "様態・予想／Modalidad y Expectación",
-    "español": "como se esperaba"
+    "español": "como se esperaba",
+    "id": "adverbios_0045"
   },
   {
     "adverbio": "も",
     "categoria": "副助詞／Partícula Adverbial",
-    "español": "también"
+    "español": "también",
+    "id": "adverbios_0046"
   },
   {
     "adverbio": "ここ",
     "categoria": "指示／Ubicación",
-    "español": "aquí"
+    "español": "aquí",
+    "id": "adverbios_0047"
   },
   {
     "adverbio": "そこ",
     "categoria": "指示／Ubicación",
-    "español": "allí"
+    "español": "allí",
+    "id": "adverbios_0048"
   },
   {
     "adverbio": "どこ",
     "categoria": "疑問／Interrogativos",
-    "español": "dónde"
+    "español": "dónde",
+    "id": "adverbios_0049"
   }
 ]
