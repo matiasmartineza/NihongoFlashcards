@@ -6,7 +6,8 @@
     "romaji": "kaku",
     "español": "escribir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0001"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -15,7 +16,8 @@
     "romaji": "taberu",
     "español": "comer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0002"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -24,7 +26,8 @@
     "romaji": "miru",
     "español": "ver",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0003"
   },
   {
     "grupo": "Irregulares",
@@ -33,7 +36,8 @@
     "romaji": "suru",
     "español": "hacer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0004"
   },
   {
     "grupo": "Irregulares",
@@ -42,7 +46,8 @@
     "romaji": "kuru",
     "español": "venir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0005"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -51,7 +56,8 @@
     "romaji": "nomu",
     "español": "beber",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0006"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -60,7 +66,8 @@
     "romaji": "yasumu",
     "español": "descansar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0007"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -69,7 +76,8 @@
     "romaji": "oyogu",
     "español": "nadar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0008"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -78,7 +86,8 @@
     "romaji": "asobu",
     "español": "jugar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0009"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -87,7 +96,8 @@
     "romaji": "hanasu",
     "español": "hablar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0010"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -96,7 +106,8 @@
     "romaji": "hataraku",
     "español": "trabajar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0011"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -105,7 +116,8 @@
     "romaji": "iku",
     "español": "ir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0012"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -114,7 +126,8 @@
     "romaji": "iu",
     "español": "decir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0013"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -123,7 +136,8 @@
     "romaji": "kaeru",
     "español": "volver",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0014"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -132,7 +146,8 @@
     "romaji": "kau",
     "español": "comprar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0015"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -141,7 +156,8 @@
     "romaji": "kiku",
     "español": "escuchar, preguntar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0016"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -150,7 +166,8 @@
     "romaji": "kiru",
     "español": "cortar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0017"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -159,7 +176,8 @@
     "romaji": "kiru",
     "español": "vestir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0018"
   },
   {
     "grupo": "Irregulares",
@@ -168,7 +186,8 @@
     "romaji": "benkyou suru",
     "español": "estudiar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0019"
   },
   {
     "grupo": "Irregulares",
@@ -177,7 +196,8 @@
     "romaji": "ryori suru",
     "español": "cocinar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0020"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -186,7 +206,8 @@
     "romaji": "shinu",
     "español": "morir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0021"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -195,7 +216,8 @@
     "romaji": "sumu",
     "español": "vivir (en algún lugar)",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0022"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -204,7 +226,8 @@
     "romaji": "utau",
     "español": "cantar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0023"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -213,7 +236,8 @@
     "romaji": "yomu",
     "español": "leer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0024"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -222,7 +246,8 @@
     "romaji": "neru",
     "español": "dormir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0025"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -231,7 +256,8 @@
     "romaji": "oshieru",
     "español": "enseñar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0026"
   },
   {
     "grupo": "Irregulares",
@@ -240,7 +266,8 @@
     "romaji": "ryoko suru",
     "español": "viajar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0027"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -249,7 +276,8 @@
     "romaji": "ireru",
     "español": "poner",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0028"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -258,7 +286,8 @@
     "romaji": "hairu",
     "español": "entrar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0029"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -267,7 +296,8 @@
     "romaji": "deru",
     "español": "salir",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0030"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -276,7 +306,8 @@
     "romaji": "dekakeru",
     "español": "salir (con propósito)",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0031"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -285,7 +316,8 @@
     "romaji": "dasu",
     "español": "sacar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0032"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -294,7 +326,8 @@
     "romaji": "yaru",
     "español": "hacer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0033"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -303,7 +336,8 @@
     "romaji": "naru",
     "español": "convertirse, volverse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0034"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -312,7 +346,8 @@
     "romaji": "dekiru",
     "español": "poder hacer, ser capaz",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0035"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -321,7 +356,8 @@
     "romaji": "akeru",
     "español": "abrir (algo físico)",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0036"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -330,7 +366,8 @@
     "romaji": "hiraku",
     "español": "abrir (expandir, desplegar)",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0037"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -339,7 +376,8 @@
     "romaji": "aku",
     "español": "abrirse (por sí solo)",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0038"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -348,7 +386,8 @@
     "romaji": "shimeru",
     "español": "cerrar (algo físico)",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0039"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -357,7 +396,8 @@
     "romaji": "tojiru",
     "español": "cerrar (plegar, completar)",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0040"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -366,7 +406,8 @@
     "romaji": "wakaru",
     "español": "entender",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0041"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -375,7 +416,8 @@
     "romaji": "ageru",
     "español": "levantar, elevar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0042"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -384,7 +426,8 @@
     "romaji": "noboru",
     "español": "subir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0043"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -393,7 +436,8 @@
     "romaji": "hareru",
     "español": "despejarse, estar soleado",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0044"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -402,7 +446,8 @@
     "romaji": "shimaru",
     "español": "cerrarse",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0045"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -411,7 +456,8 @@
     "romaji": "くれる",
     "español": "dar (a mí)",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0046"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -420,7 +466,8 @@
     "romaji": "miseru",
     "español": "mostrar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0047"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -429,7 +476,8 @@
     "romaji": "mieru",
     "español": "ser visible, poder verse",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0048"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -438,7 +486,8 @@
     "romaji": "mitsukeru",
     "español": "encontrar, descubrir",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0049"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -447,7 +496,8 @@
     "romaji": "mitsukaru",
     "español": "ser encontrado, aparecer",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0050"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -456,7 +506,8 @@
     "romaji": "yameru",
     "español": "dejar de hacer algo, renunciar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0051"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -465,7 +516,8 @@
     "romaji": "aruku",
     "español": "caminar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0052"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -474,7 +526,8 @@
     "romaji": "hashiru",
     "español": "correr",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0053"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -483,7 +536,8 @@
     "romaji": "au",
     "español": "encontrarse con alguien",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0054"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -492,7 +546,8 @@
     "romaji": "oboeru",
     "español": "memorizar, recordar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0055"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -501,7 +556,8 @@
     "romaji": "aru",
     "español": "existir, haber (inanimado)",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0056"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -510,7 +566,8 @@
     "romaji": "nai",
     "español": "no existir, no haber",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0057"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -519,7 +576,8 @@
     "romaji": "ageru",
     "español": "dar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0058"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -528,7 +586,8 @@
     "romaji": "morau",
     "español": "recibir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0059"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -537,7 +596,8 @@
     "romaji": "tomaru",
     "español": "pernoctar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0060"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -546,7 +606,8 @@
     "romaji": "tsukuru",
     "español": "hacer, fabricar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0061"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -555,7 +616,8 @@
     "romaji": "tsukau",
     "español": "usar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0062"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -564,7 +626,8 @@
     "romaji": "kesu",
     "español": "borrar, apagar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0063"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -573,7 +636,8 @@
     "romaji": "uru",
     "español": "vender",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0064"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -582,7 +646,8 @@
     "romaji": "suku",
     "español": "vaciarse, estar vacío",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0065"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -591,7 +656,8 @@
     "romaji": "omou",
     "español": "pensar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0066"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -600,7 +666,8 @@
     "romaji": "wasureru",
     "español": "olvidar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0067"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -609,7 +676,8 @@
     "romaji": "kangaeru",
     "español": "considerar, reflexionar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0068"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -618,7 +686,8 @@
     "romaji": "kimeru",
     "español": "decidir (algo)",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0069"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -627,7 +696,8 @@
     "romaji": "kimaru",
     "español": "decidirse",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0070"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -636,7 +706,8 @@
     "romaji": "shiru",
     "español": "saber, conocer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0071"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -645,7 +716,8 @@
     "romaji": "okuru",
     "español": "enviar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0072"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -654,7 +726,8 @@
     "romaji": "toru",
     "español": "tomar, coger",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0073"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -663,7 +736,8 @@
     "romaji": "matsu",
     "español": "esperar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0074"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -672,7 +746,8 @@
     "romaji": "motsu",
     "español": "tener, sujetar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0075"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -681,7 +756,8 @@
     "romaji": "ikiru",
     "español": "vivir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0076"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -690,7 +766,8 @@
     "romaji": "hiku",
     "español": "tirar, halar, tocar (instrumento de cuerda), atraer",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0077"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -699,7 +776,8 @@
     "romaji": "makeru",
     "español": "perder",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0078"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -708,7 +786,8 @@
     "romaji": "katsu",
     "español": "ganar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0079"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -717,7 +796,8 @@
     "romaji": "tatsu",
     "español": "pararse, levantarse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0080"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -726,7 +806,8 @@
     "romaji": "noru",
     "español": "subir a, montar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0081"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -735,7 +816,8 @@
     "romaji": "kaeru",
     "español": "cambiar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0082"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -744,7 +826,8 @@
     "romaji": "suwaru",
     "español": "sentarse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0083"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -753,7 +836,8 @@
     "romaji": "ugoku",
     "español": "moverse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0084"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -762,7 +846,8 @@
     "romaji": "kakinaosu",
     "español": "reescribir",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0085"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -771,7 +856,8 @@
     "romaji": "chigau",
     "español": "ser diferente, equivocarse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0086"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -780,7 +866,8 @@
     "romaji": "magaru",
     "español": "girar, doblar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0087"
   },
   {
     "grupo": "Irregulares",
@@ -789,7 +876,8 @@
     "romaji": "kekkonsuru",
     "español": "casarse",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0088"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -798,7 +886,8 @@
     "romaji": "kotaeru",
     "español": "responder",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0089"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -807,7 +896,8 @@
     "romaji": "tobu",
     "español": "volar, saltar",
     "par_transitivo_intransitivo": "No",
-    "tipo": "N/A"
+    "tipo": "N/A",
+    "id": "verbos_0090"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -816,7 +906,8 @@
     "romaji": "tsukeru",
     "español": "encender, prender",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0091"
   },
   {
     "grupo": "Irregulares",
@@ -825,7 +916,8 @@
     "romaji": "aisuru",
     "español": "amar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0092"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -834,7 +926,8 @@
     "romaji": "warau",
     "español": "reír",
     "par_transitivo_intransitivo": "No",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0093"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -843,7 +936,8 @@
     "romaji": "noseru",
     "español": "colocar encima, montar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0094"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -852,7 +946,8 @@
     "romaji": "okoru",
     "español": "ocurrir",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0095"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -861,7 +956,8 @@
     "romaji": "okosu",
     "español": "despertar, causar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0096"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -870,7 +966,8 @@
     "romaji": "okiru",
     "español": "levantarse, ocurrir",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0097"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -879,7 +976,8 @@
     "romaji": "modoru",
     "español": "regresar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0098"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -888,7 +986,8 @@
     "romaji": "tateru",
     "español": "construir",
     "par_transitivo_intransitive": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0099"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -897,7 +996,8 @@
     "romaji": "oku",
     "español": "colocar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0100"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -906,7 +1006,8 @@
     "romaji": "ochiru",
     "español": "caer",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "intransitive"
+    "tipo": "intransitive",
+    "id": "verbos_0101"
   },
   {
     "grupo": "Grupo 1 (う)",
@@ -915,7 +1016,8 @@
     "romaji": "sagasu",
     "español": "buscar",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0102"
   },
   {
     "grupo": "Grupo 2 (る)",
@@ -924,7 +1026,8 @@
     "romaji": "kanjiru",
     "español": "sentir",
     "par_transitivo_intransitivo": "Sí",
-    "tipo": "transitivo"
+    "tipo": "transitivo",
+    "id": "verbos_0103"
   },
   {
     "romaji": "kiniiru",
@@ -933,7 +1036,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "gustar; quedar satisfecho con"
+    "español": "gustar; quedar satisfecho con",
+    "id": "verbos_0104"
   },
   {
     "romaji": "tassuru",
@@ -942,7 +1046,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "llegar a; alcanzar"
+    "español": "llegar a; alcanzar",
+    "id": "verbos_0105"
   },
   {
     "romaji": "tasu",
@@ -951,7 +1056,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "añadir; sumar"
+    "español": "añadir; sumar",
+    "id": "verbos_0106"
   },
   {
     "romaji": "tariru",
@@ -960,7 +1066,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "ser suficiente; bastar"
+    "español": "ser suficiente; bastar",
+    "id": "verbos_0107"
   },
   {
     "romaji": "oriru",
@@ -969,7 +1076,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "bajarse (de un vehículo)"
+    "español": "bajarse (de un vehículo)",
+    "id": "verbos_0108"
   },
   {
     "romaji": "orosu",
@@ -978,7 +1086,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "bajar; descargar"
+    "español": "bajar; descargar",
+    "id": "verbos_0109"
   },
   {
     "romaji": "kudaru",
@@ -987,7 +1096,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "descender; ir hacia abajo"
+    "español": "descender; ir hacia abajo",
+    "id": "verbos_0110"
   },
   {
     "romaji": "sagaru",
@@ -996,7 +1106,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "bajar; alejarse"
+    "español": "bajar; alejarse",
+    "id": "verbos_0111"
   },
   {
     "romaji": "sageru",
@@ -1005,7 +1116,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "bajar; reducir"
+    "español": "bajar; reducir",
+    "id": "verbos_0112"
   },
   {
     "romaji": "agaru",
@@ -1014,7 +1126,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "subir; elevarse"
+    "español": "subir; elevarse",
+    "id": "verbos_0113"
   },
   {
     "romaji": "okonau",
@@ -1023,7 +1136,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "realizar; llevar a cabo"
+    "español": "realizar; llevar a cabo",
+    "id": "verbos_0114"
   },
   {
     "romaji": "wakeru",
@@ -1032,7 +1146,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "dividir; repartir"
+    "español": "dividir; repartir",
+    "id": "verbos_0115"
   },
   {
     "romaji": "wakareru",
@@ -1041,7 +1156,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "separarse; desprenderse"
+    "español": "separarse; desprenderse",
+    "id": "verbos_0116"
   },
   {
     "romaji": "kakeru",
@@ -1050,7 +1166,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "colgar; apostar; colocar sobre"
+    "español": "colgar; apostar; colocar sobre",
+    "id": "verbos_0117"
   },
   {
     "romaji": "kawaku",
@@ -1059,7 +1176,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "tener sed; secarse"
+    "español": "tener sed; secarse",
+    "id": "verbos_0118"
   },
   {
     "romaji": "tetsudau",
@@ -1068,7 +1186,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "ayudar; asistir"
+    "español": "ayudar; asistir",
+    "id": "verbos_0119"
   },
   {
     "romaji": "sawaru",
@@ -1077,7 +1196,8 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "intransitivo",
     "tipo": "verbo",
-    "español": "tocar; palpar"
+    "español": "tocar; palpar",
+    "id": "verbos_0120"
   },
   {
     "romaji": "abiru",
@@ -1086,7 +1206,8 @@
     "grupo": "ichidan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "bañarse; recibir (ducha, radiación, crítica)"
+    "español": "bañarse; recibir (ducha, radiación, crítica)",
+    "id": "verbos_0121"
   },
   {
     "romaji": "yobu",
@@ -1095,6 +1216,7 @@
     "grupo": "godan",
     "par_transitivo_intransitivo": "transitivo",
     "tipo": "verbo",
-    "español": "llamar; convocar"
+    "español": "llamar; convocar",
+    "id": "verbos_0122"
   }
 ]
