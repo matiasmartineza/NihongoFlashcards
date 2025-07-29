@@ -1,0 +1,7 @@
+body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
+.screen { text-align: center; }
+#card { border: 1px solid #ccc; padding: 20px; margin-bottom: 20px; }
+.kanji { font-size: 48px; }
+.hiragana { font-size: 24px; }
+.translation { font-size: 24px; color: blue; white-space: pre-line; }
+.buttons button { margin: 5px; }

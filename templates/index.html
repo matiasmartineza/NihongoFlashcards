@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Nihongo Flashcards</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div id="selection" class="screen">
+        <h1>Nihongo Flashcards</h1>
+        <label for="category">Categoría:</label>
+        <select id="category">
+            <option value="verbo">Verbos</option>
+            <option value="adjetivo">Adjetivos</option>
+            <option value="adverbio">Adverbios</option>
+            <option value="jlpt">JLPT N5</option>
+        </select>
+        <label for="count">¿Cuántas tarjetas?</label>
+        <input type="number" id="count" min="1" value="10">
+        <div class="buttons">
+            <button id="start">Iniciar</button>
+            <button id="start-smart">Modo inteligente</button>
+        </div>
+    </div>
+
+    <div id="flashcard" class="screen" style="display:none;">
+        <div id="counter"></div>
+        <div id="card">
+            <div id="kanji" class="kanji"></div>
+            <div id="hiragana" class="hiragana"></div>
+            <div id="translation" class="translation" style="display:none;"></div>
+        </div>
+        <div class="buttons">
+            <button id="prev">Anterior</button>
+            <button id="flip">Mostrar significado</button>
+            <button id="no">No lo sabía</button>
+            <button id="yes">Lo sabía</button>
+            <button id="exit">Regresar</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>
