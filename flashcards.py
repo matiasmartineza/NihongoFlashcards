@@ -8,6 +8,8 @@ class FlashcardApp:
         self.master = master
         master.title("Flashcards de Japonés")
         master.geometry("600x500")
+        # Evita que el tamaño de la ventana cambie y los botones se oculten
+        master.resizable(False, False)
         
         # Variables generales
         self.all_cards = []
@@ -19,6 +21,14 @@ class FlashcardApp:
         self.card_category = None  
         
         # Pantalla de selección inicial
+        self.create_initial_selection_frame()
+
+    def back_to_selection(self):
+        """Vuelve a la pantalla de selección inicial."""
+        if hasattr(self, 'flashcard_frame') and self.flashcard_frame.winfo_exists():
+            self.flashcard_frame.destroy()
+        if hasattr(self, 'config_frame') and self.config_frame.winfo_exists():
+            self.config_frame.destroy()
         self.create_initial_selection_frame()
         
     def create_initial_selection_frame(self):
@@ -99,6 +109,9 @@ class FlashcardApp:
         
         iniciar_todas_button = tk.Button(button_frame, text="Iniciar todas las tarjetas", command=self.start_all_session, width=20)
         iniciar_todas_button.pack(side=tk.LEFT, padx=10)
+
+        regresar_button = tk.Button(button_frame, text="Regresar", command=self.back_to_selection, width=20)
+        regresar_button.pack(side=tk.LEFT, padx=10)
     
     def start_session(self):
         """Inicia la sesión con la cantidad de tarjetas especificada."""
@@ -165,7 +178,7 @@ class FlashcardApp:
         # Botones: Anterior, Mostrar/Ocultar y Siguiente
         self.button_frame = tk.Frame(self.flashcard_frame)
         self.button_frame.pack(pady=20)
-        
+
         self.prev_button = tk.Button(self.button_frame, text="Anterior", command=self.prev_card, width=20)
         self.prev_button.pack(side=tk.LEFT, padx=10)
         
@@ -174,6 +187,9 @@ class FlashcardApp:
         
         self.next_button = tk.Button(self.button_frame, text="Siguiente", command=self.next_card, width=20)
         self.next_button.pack(side=tk.LEFT, padx=10)
+
+        self.exit_button = tk.Button(self.button_frame, text="Regresar", command=self.back_to_selection, width=20)
+        self.exit_button.pack(side=tk.LEFT, padx=10)
     
     def flip_card(self):
         """Muestra u oculta el significado y la información extra.
@@ -188,7 +204,11 @@ class FlashcardApp:
             elif self.card_category == "adjetivo":
                 info = f"{self.current_card['español']}\nTipo: {self.current_card['tipo']}"
             else:  # adverbio
-                info = f"Categoría: {self.current_card['categoria']}"
+                significado = self.current_card.get('español') or self.current_card.get('significado')
+                if significado:
+                    info = f"{significado}\nCategoría: {self.current_card['categoria']}"
+                else:
+                    info = f"Categoría: {self.current_card['categoria']}\n(Traducción no disponible)"
             self.translation_label.config(text=info)
             self.flip_button.config(text="Ocultar significado")
             self.flipped = True
