@@ -230,7 +230,10 @@ class FlashcardApp:
             stat = self.stats.get(card.get("id"), {"shown": 0, "correct": 0})
             shown = stat["shown"]
             acc = stat["correct"] / shown if shown > 0 else 0
-            return (acc, shown)
+            # Unseen cards have shown == 0. Using -shown ensures previously
+            # reviewed cards with the same accuracy are prioritized over unseen
+            # ones when sorting.
+            return (acc, -shown)
 
         ordered = sorted(self.all_cards, key=metric)
         self.session_cards = ordered[:num]
