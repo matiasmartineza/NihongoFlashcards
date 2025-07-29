@@ -2,6 +2,7 @@ import json
 import random
 import tkinter as tk
 from tkinter import messagebox
+import os
 
 class FlashcardApp:
     def __init__(self, master):
@@ -71,7 +72,9 @@ class FlashcardApp:
             return
         
         try:
-            with open(filename, "r", encoding="utf-8") as f:
+            base_dir = os.path.dirname(__file__)
+            filepath = os.path.join(base_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
                 self.all_cards = json.load(f)
         except Exception as e:
             messagebox.showerror("Error", f"No se pudo cargar '{filename}': {e}")
