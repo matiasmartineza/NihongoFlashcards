@@ -276,36 +276,25 @@ class FlashcardApp:
         
         self.flip_button = tk.Button(
             self.button_frame,
-            text="Mostrar significado",
+            text="🟡 Mostrar significado",
             command=self.flip_card,
             width=20,
-            bg="yellow",
-            activebackground="yellow",
-            highlightbackground="yellow",
         )
         self.flip_button.pack(side=tk.LEFT, padx=10)
         
         self.no_button = tk.Button(
             self.button_frame,
-            text="No lo sabía",
+            text="🔴 No lo sabía",
             command=lambda: self.answer(False),
             width=20,
-            bg="red",
-            fg="white",
-            activebackground="red",
-            highlightbackground="red",
         )
         self.no_button.pack(side=tk.LEFT, padx=10)
 
         self.yes_button = tk.Button(
             self.button_frame,
-            text="Lo sabía",
+            text="🟢 Lo sabía",
             command=lambda: self.answer(True),
             width=20,
-            bg="green",
-            fg="white",
-            activebackground="green",
-            highlightbackground="green",
         )
         self.yes_button.pack(side=tk.LEFT, padx=10)
 
@@ -325,7 +314,7 @@ class FlashcardApp:
             self.hiragana_label.config(text=self.current_card["hiragana"])
             self.hiragana_label.pack(pady=(0,20))
         self.translation_label.config(text="")
-        self.flip_button.config(text="Mostrar significado")
+        self.flip_button.config(text="🟡 Mostrar significado")
         self.flipped = False
         self.counter_label.config(text=f"Tarjeta {self.index + 1} de {self.session_total}")
         if "id" in self.current_card:
@@ -350,11 +339,11 @@ class FlashcardApp:
                 else:
                     info = f"Categoría: {self.current_card['categoria']}\n(Traducción no disponible)"
             self.translation_label.config(text=info)
-            self.flip_button.config(text="Ocultar significado")
+            self.flip_button.config(text="🟡 Ocultar significado")
             self.flipped = True
         else:
             self.translation_label.config(text="")
-            self.flip_button.config(text="Mostrar significado")
+            self.flip_button.config(text="🟡 Mostrar significado")
             self.flipped = False
     
     def answer(self, knew: bool):
