@@ -223,8 +223,11 @@ class FlashcardApp:
         """
         self.index += 1
         if self.index >= self.session_total:
-            messagebox.showinfo("Fin de la sesión", "Has terminado todas las tarjetas de la sesión.")
-            self.master.destroy()
+            messagebox.showinfo(
+                "Fin de la sesión",
+                "Has terminado todas las tarjetas de la sesión."
+            )
+            self.back_to_selection()
             return
         
         self.current_card = self.session_cards[self.index]
