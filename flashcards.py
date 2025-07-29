@@ -9,7 +9,7 @@ class FlashcardApp:
         master.title("Flashcards de Japonés")
         master.geometry("600x500")
         # Evita que el tamaño de la ventana cambie y los botones se oculten
-        master.resizable(False, False)
+        master.resizable(True, True)
         
         # Variables generales
         self.all_cards = []
