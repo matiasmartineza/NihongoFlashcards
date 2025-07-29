@@ -1,0 +1,9 @@
+# Byte-compiled / temporary files
+__pycache__/
+*.py[cod]
+
+# User-specific files
+stats.json
+
+# MacOS
+.DS_Store
