@@ -4,4 +4,30 @@ body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
 .kanji { font-size: 48px; }
 .hiragana { font-size: 24px; }
 .translation { font-size: 24px; color: blue; white-space: pre-line; }
-.buttons button { margin: 5px; }
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.buttons button {
+  margin: 5px;
+}
+
+.yes-button {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+.no-button {
+  background-color: #f44336;
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  body { font-size: 18px; padding: 10px; }
+  #card { padding: 10px; }
+  .kanji { font-size: 36px; }
+  .hiragana { font-size: 18px; }
+  .translation { font-size: 18px; }
+  .buttons button { width: 100%; margin: 5px 0; }
+}

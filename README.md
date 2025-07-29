@@ -49,9 +49,10 @@ Para lanzar la versión web ejecuta:
 python3 app.py
 ```
 
-Luego abre `http://127.0.0.1:5000` en tu navegador.
-La página permite seleccionar la categoría y cantidad de tarjetas,
-y también cuenta con un *Modo inteligente* que utiliza las estadísticas guardadas.
+ Luego abre `http://127.0.0.1:5000` en tu navegador.
+ La página permite seleccionar la categoría y cantidad de tarjetas,
+ iniciar con todas las tarjetas disponibles o usar el *Modo inteligente* que utiliza las estadísticas guardadas.
+ La interfaz web está pensada para verse correctamente en teléfonos móviles.
 
 ## Licencia
 

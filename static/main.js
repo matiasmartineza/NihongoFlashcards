@@ -3,6 +3,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const flashcard = document.getElementById('flashcard');
     const startBtn = document.getElementById('start');
     const smartBtn = document.getElementById('start-smart');
+    const allBtn = document.getElementById('start-all');
     const prevBtn = document.getElementById('prev');
     const flipBtn = document.getElementById('flip');
     const yesBtn = document.getElementById('yes');
@@ -43,7 +44,11 @@ window.addEventListener('DOMContentLoaded', () => {
     function fetchCards(mode) {
         const category = document.getElementById('category').value;
         const count = document.getElementById('count').value || 10;
-        fetch(`/api/tarjetas?categoria=${category}&modo=${mode}&n=${count}`)
+        let url = `/api/tarjetas?categoria=${category}&modo=${mode}`;
+        if (mode !== 'all') {
+            url += `&n=${count}`;
+        }
+        fetch(url)
             .then(r => r.json())
             .then(data => {
                 cards = data;
@@ -56,6 +61,9 @@ window.addEventListener('DOMContentLoaded', () => {
 
     startBtn.onclick = () => fetchCards('normal');
     smartBtn.onclick = () => fetchCards('smart');
+    if (allBtn) {
+        allBtn.onclick = () => fetchCards('all');
+    }
 
     prevBtn.onclick = () => {
         if (index <= 0) {
