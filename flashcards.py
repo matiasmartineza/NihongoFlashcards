@@ -274,7 +274,15 @@ class FlashcardApp:
         self.prev_button = tk.Button(self.button_frame, text="Anterior", command=self.prev_card, width=20)
         self.prev_button.pack(side=tk.LEFT, padx=10)
         
-        self.flip_button = tk.Button(self.button_frame, text="Mostrar significado", command=self.flip_card, width=20)
+        self.flip_button = tk.Button(
+            self.button_frame,
+            text="Mostrar significado",
+            command=self.flip_card,
+            width=20,
+            bg="yellow",
+            activebackground="yellow",
+            highlightbackground="yellow",
+        )
         self.flip_button.pack(side=tk.LEFT, padx=10)
         
         self.no_button = tk.Button(
@@ -284,6 +292,8 @@ class FlashcardApp:
             width=20,
             bg="red",
             fg="white",
+            activebackground="red",
+            highlightbackground="red",
         )
         self.no_button.pack(side=tk.LEFT, padx=10)
 
@@ -294,6 +304,8 @@ class FlashcardApp:
             width=20,
             bg="green",
             fg="white",
+            activebackground="green",
+            highlightbackground="green",
         )
         self.yes_button.pack(side=tk.LEFT, padx=10)
 

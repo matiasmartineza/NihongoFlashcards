@@ -23,6 +23,11 @@ body { font-family: sans-serif; max-width: 800px; margin: auto; padding: 20px; }
   color: #fff;
 }
 
+#flip {
+  background-color: #ffeb3b;
+  color: #000;
+}
+
 @media (max-width: 600px) {
   body { font-size: 18px; padding: 10px; }
   #card { padding: 10px; }
